@@ -1,0 +1,28 @@
+
+
+
+.textarea{
+  width: 90vw;
+  height:200px;
+  
+}
+/* .btn{
+  text-align: center;
+} */
+.btn{
+  margin-right: 1rem;
+}
+button{
+  background-color: brown;
+  /* margin-left: 50rem; */
+  border: 5px solid green;
+}
+.Dark{
+  background-color: black;
+  color: white;
+}
+.White{
+  background-color: white;
+  color: black;
+}
+
